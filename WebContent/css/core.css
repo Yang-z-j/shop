@@ -1,0 +1,228 @@
+body {
+    min-width: 1080px;
+    background-color: #f6f6f6;
+}
+
+#header {
+    height: 68px;
+    border: 1px solid #66CCFF;
+    background-color: #66CCFF;
+}
+
+.login {
+    background-color: darkgray;
+    padding-bottom: 5px;
+    padding-top: 3px;
+    background-color: #EEEEEE;
+}
+
+.login_1 {
+    width: 1080px;
+    position: relative;
+    border: 1px solid #EEEEEE;
+    margin: 0 auto;
+}
+
+.span1 {
+    cursor: pointer;
+    font-size: 12px;
+    color: #999;
+    text-decoration: none;
+}
+
+.ul1 {
+    overflow: hidden;
+}
+
+.span {
+    position: absolute;
+    left: 0;
+}
+
+.span1:hover {
+    color: #66CCFF;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    font-size: 14px;
+    color: #999;
+}
+
+.a1 {
+    text-decoration: none;
+}
+
+.a1:hover {
+    color: red;
+}
+
+.p1 {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#body {
+    width: 1080px;
+    height: 111px;
+    margin: 0 auto;
+    position: relative;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 200px;
+    font-size: 50px;
+    font-weight: bold;
+    display: block;
+    color: #66CCFF;
+    text-decoration: none;
+    position: absolute;
+    left: 5px;
+    top: 20px;
+}
+
+.textinput {
+    width: 550px;
+    padding: 10px;
+    border: 2px solid #66CCFF;
+    font-size: 15px;
+    outline: none;
+}
+
+.button1 {
+    width: 80px;
+    height: 42px;
+    border: none;
+    background-color: #66CCFF;
+    font-size: 17px;
+    font-weight: 700;
+    color: #fff;
+    outline: none;
+    position: relative;
+    right: 5px;
+    top: 1px;
+    text-align: center;
+}
+
+#body-1 {
+    position: absolute;
+    right: 171px;
+    top: 36px;
+}
+
+hr {
+    border-top: 2px solid #66CCFF;
+}
+
+#daohanglan {
+    position: relative;
+    background-color: #EEEEEE;
+    margin-bottom: 10px;
+}
+
+.daohanglan_1 {
+    width: 1080px;
+    margin: 0 auto;
+    display: block;
+}
+
+.a3 {
+    color: #888;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 50px;
+}
+
+.a3:hover {
+    color: #66CCFF;
+}
+
+.fuhao {
+    color: #888;
+}
+
+#shopcar {
+    width: 1080px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #66CCFF;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ebebeb;
+    /*margin-bottom: 10px;*/
+}
+
+#toubu {
+    background-color: #eee;
+}
+
+tr {
+    font-size: 12px;
+}
+
+.th1 {
+    width: 130px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.th2 {
+    width: 400px;
+    text-align: left;
+}
+
+.th3 {
+    width: 100px;
+    text-align: center;
+}
+
+.th4 {
+    width: 200px;
+    text-align: center;
+}
+
+.th5 {
+    width: 100px;
+    text-align: center;
+}
+
+.th6 {
+    width: 110px;
+    text-align: center;
+}
+
+.ul3 li {
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+.li3 {
+    position: relative;
+    left: 10px;
+}
+
+.login a:hover {
+    text-decoration: none;
+    color: #66CCFF;
+}
+
+a {
+    text-decoration: none;
+}

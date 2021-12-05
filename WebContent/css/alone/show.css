@@ -1,0 +1,137 @@
+body {
+	font-family: Roboto, Noto, Helvetica, Arial, sans-serif;
+}
+
+a {
+	font-size: 14px;
+}
+
+.logo {
+	width: 200px;
+	font-size: 50px;
+	font-weight: bold;
+	display: block;
+	color: #66CCFF;
+	text-decoration: none;
+	position: absolute;
+	left: -6px;
+	top: 20px;
+}
+
+.li1 {
+	margin-left: 20px;
+}
+
+.textinput {
+	width: 550px;
+	padding: 7px;
+	border: 2px solid #66CCFF;
+	font-size: 15px;
+	outline: none;
+}
+
+#commodity {
+	width: 1080px;
+}
+
+.li3 {
+	margin: 10px;
+}
+
+.li1 {
+	left: 87%;
+}
+
+.span3 {
+    width: 80%;
+    height: 67px;
+    position: absolute;
+    margin-left: 15px;
+    bottom: 23px;
+    left: 5px;
+    bottom: 23px;
+    overflow: hidden;
+}
+
+.unit1 {
+	font-size: 32px !important;
+	margin-right: 9px;
+}
+
+.modal-body .size span {
+	cursor: pointer;
+	margin-right: 3px;
+}
+
+.modal-body .size span:hover {
+	border-color: red;
+}
+
+.bgc {
+	border-color: red !important;
+}
+
+#body>a {
+	text-decoration: none;
+	color: #66ccff;
+}
+
+.money {
+	position: absolute;
+	padding-top: 0px;
+	left: 18px;
+	bottom: -1px;
+	font-size: 16px;
+}
+
+.flooer {
+	line-height: 50px;
+	color: #d58717;
+	font-weight: 400;
+	font-size: 20px;
+	border-bottom: 1px solid #d58717;
+}
+
+.modal {
+	top: 80px;
+}
+	
+.login_1 a {
+	font-size: 14px;
+	color: #007bff;
+	font-size: 14px;
+}
+
+.button1 {
+	display: inline-block;
+	width: 80px;
+	height: 41px;
+	line-height: 41px;
+	border: none;
+	background-color: #66CCFF;
+	font-size: 17px;
+	font-weight: 700;
+	color: #fff !important;
+	outline: none;
+	position: relative;
+	right: 5px;
+	top: 0px;
+	text-align: center;
+	text-decoration: none !important;
+}
+
+.userModal .modal-title {
+    position: absolute!important;
+    top: 7px;
+    left: 14px;
+}
+
+.userModal .form-control {
+    display: inline-block;
+    width: 86%;
+}
+
+.userModal .btn-default {
+	color: white;
+	background-color: #007bff;
+}

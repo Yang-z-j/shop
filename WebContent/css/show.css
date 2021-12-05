@@ -1,0 +1,396 @@
+.login {
+	background-color: darkgray;
+	padding-bottom: 5px;
+	padding-top: 3px;
+	background-color: #EEEEEE;
+}
+
+.login_1 {
+	width: 1080px;
+	position: relative;
+	border: 1px solid #EEEEEE;
+	margin: 0 auto;
+}
+
+#listHeader {
+	background: #FFFFFF;
+	width: 100%;
+}
+
+#body-1 {
+	position: absolute;
+	right: 171px;
+	top: 36px;
+}
+
+.logo {
+	width: 150px;
+	font-size: 35px;
+	font-weight: bold;
+	display: block;
+	color: #66CCFF;
+	text-decoration: none;
+	position: absolute;
+	left: 60px;
+	top: 35px;
+}
+
+#body {
+	width: 1080px;
+	height: 111px;
+	margin: 0 auto;
+	position: relative;
+}
+
+body {
+	min-width: 1080px;
+	background-color: #f6f6f6;
+}
+
+.textinput {
+	width: 550px;
+	padding: 7.2px;
+	border: 2px solid #66CCFF;
+	font-size: 15px;
+	outline: none;
+}
+
+#header {
+	height: 68px;
+	border: 1px solid #66CCFF;
+	background-color: #66CCFF;
+}
+
+.p1 {
+	text-align: center;
+	margin-top: 20px;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.button1 {
+	width: 80px;
+	height: 42px;
+	border: none;
+	background-color: #66CCFF;
+	font-size: 17px;
+	font-weight: 700;
+	color: #fff;
+	outline: none;
+	position: relative;
+	right: 5px;
+	top: 1px;
+	text-align: center;
+	cursor: pointer;
+}
+
+#daohanglan {
+	width: 1080px;
+	height: 300px;
+	margin: 0 auto;
+	position: relative;
+	top: 0px;
+}
+
+li {
+	list-style: none;
+}
+
+#daohanglan_1 {
+	float: left;
+	font-size: 20px;
+	width: 170px;
+	/* margin-right: 10px; */
+	height: 370px;
+	background: #666;
+	color: rgb(37, 190, 17);
+	/* text-align: center; */
+	/* line-height: 350px; */
+	background-color: #66CCFF;
+}
+
+#daohanglan_1 li {
+	text-align: center;
+	padding: 8.95px 30px;
+}
+
+#daohanglan_1 li:hover a {
+	font-size: 24px;
+}
+
+#daohanglan_1 li:hover {
+	background-color: rgb(0, 183, 255);
+}
+
+#fz {
+	margin-top: 20px;
+	width: 60%;
+	height: 60%;
+}
+
+a {
+	font-size: 14px;
+	color: rgb(68, 218, 9);
+}
+
+#commodity {
+	width: 1080px;
+	height: 320px;
+	margin: 0 auto;
+	/* padding-top: -50px; */
+}
+
+.ul4 {
+	margin-right: -20px;
+}
+
+.li3 {
+	float: left;
+	width: 200px;
+	height: 250px;
+	position: relative;
+	margin: 6px;
+	right: 40px;
+	cursor: pointer;
+	background-color: #fff;
+	transition: box-shadow .5s ease;
+}
+
+.img {
+	width: 80%;
+	height: 60%;
+	position: absolute;
+	left: 20px;
+	top: 35px;
+}
+
+.li3:hover {
+	box-shadow: 1px 1px 7px #ddd;
+}
+
+.li2 {
+	position: relative;
+	overflow: hidden;
+	padding-left: 12px;
+	height: 35px;
+	line-height: 35px;
+	bottom: 20px;
+	right: 20px;
+}
+
+.flooer {
+	line-height: 50px;
+	color: #d58717;
+	font-weight: 400;
+	font-size: 20px;
+	border-bottom: 1px solid #d58717;
+}
+
+.span3 {
+	width: 80%;
+	position: absolute;
+	margin-left: 15px;
+	bottom: 20px;
+	left: 5px;
+}
+
+.span4 {
+	position: absolute;
+	padding-top: 5px;
+	left: 20px;
+	bottom: 2px;
+	font-size: 16px;
+	color: #a93931;
+}
+
+.flooer_2 {
+	line-height: 50px;
+	color: #3b838c;
+	font-weight: 400;
+	font-size: 20px;
+	border-bottom: 1px solid #3b838c;
+}
+
+.flooer_3 {
+	line-height: 50px;
+	color: #a93931;
+	border-bottom: 1px solid #a93931;
+	font-weight: 400;
+	font-size: 20px;
+}
+
+.flooer_4 {
+	line-height: 50px;
+	color: #488bad;
+	border-bottom: 1px solid #488bad;
+	font-weight: 400;
+	font-size: 20px;
+}
+
+.li3:hover {
+	background-color: #CCFFFF;
+}
+
+/* 
+.flooer_5 {
+    line-height: 50px;
+    color: #642663;
+    border-bottom: 1px solid #642663;
+    font-weight: 400;
+    font-size: 20px;
+} */
+.a2 {
+	margin-right: 3px;
+	color: #fff;
+	font-size: 20px;
+	cursor: pointer;
+	position: relative;
+}
+
+#slideshow div {
+	position: absolute;
+	width: 30px;
+	background: rgba(0, 0, 0, 0.2);
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	z-index: 150;
+	font-family: "寰蒋闆呴粦";
+	font-size: 28px;
+	font-weight: bold;
+	cursor: pointer;
+	display: inline;
+	opacity: 0.8;
+	top: 150px;
+}
+
+#leftpre {
+	left: 240px;
+}
+
+#rightnext {
+	right: 0px;
+}
+
+#slideshow {
+	height: 100%;
+}
+
+.span2 {
+	position: absolute;
+	top: 12px;
+	left: 20px;
+	font-size: 16px;
+	color: #5e5e5e;
+}
+
+#listHeader a {
+	color: #333333;
+	text-decoration: none;
+	font-size: 12px;
+	position: relative;
+	bottom: 2px;
+}
+
+#listHeader a:hover {
+	color: #CCFFFF;
+	text-decoration: none;
+	font-size: 12px;
+	position: relative;
+	bottom: 2px;
+}
+
+#listHeader span {
+	color: #999999;
+}
+
+#listHeader-left {
+	display: inline;
+	position: relative;
+	left: 20px;
+}
+
+#listHeader-right {
+	display: inline;
+	float: right;
+	position: relative;
+	right: 40px;
+}
+
+/* 轮播 */
+
+/*这个文件里面放的是 首页的样式*/
+
+/* .main {
+    width: 980px;
+    height: 455px;
+    margin-left: 219px;
+    margin-top: 10px;
+} */
+.focus {
+	position: relative;
+	width: 900px;
+	height: 370px;
+	background-color: purple;
+	overflow: hidden;
+}
+
+.focus ul {
+	/* 必须有定位才能移动 */
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 600%;
+}
+
+.focus ul li {
+	float: left;
+}
+
+.focus ul li img {
+	width: 900px;
+	height: 370px;
+}
+
+.arrow-l, .arrow-r {
+	display: none;
+	position: absolute;
+	top: 50%;
+	margin-top: -20px;
+	width: 24px;
+	height: 40px;
+	background: rgba(0, 0, 0, .3);
+	text-align: center;
+	line-height: 40px;
+	color: #fff;
+	font-family: 'icomoon';
+	font-size: 18px;
+	z-index: 2;
+}
+
+.arrow-r {
+	right: 0;
+}
+
+.circle {
+	position: absolute;
+	bottom: 10px;
+	left: 50px;
+}
+
+.circle li {
+	float: left;
+	width: 8px;
+	height: 8px;
+	/*background-color: #fff;*/
+	border: 2px solid rgba(255, 255, 255, 0.5);
+	margin: 0 3px;
+	border-radius: 50%;
+	/*鼠标经过显示小手*/
+	cursor: pointer;
+}
+
+.current {
+	background-color: #fff;
+}

@@ -1,0 +1,110 @@
+.login_1 a {
+	color: #007bff !important;
+}
+
+.money {
+	position: absolute;
+	padding-top: 0px;
+	left: 18px;
+	bottom: -1px;
+	font-size: 16px;
+}
+
+.unit1 {
+	font-size: 32px !important;
+	margin-right: 9px;
+}
+
+.modal-body .size span {
+	cursor: pointer;
+	margin-right: 3px;
+}
+
+.modal-body .size span:hover {
+	border-color: red;
+}
+
+.bgc {
+	border-color: red !important;
+}
+
+.logo {
+	cursor: pointer;
+	width: 200px;
+	font-size: 50px;
+	font-weight: bold;
+	display: block;
+	color: #66CCFF;
+	text-decoration: none;
+	position: absolute;
+	left: 4px;
+	top: 20px;
+}
+
+.span {
+	position: absolute;
+	left: 6px;
+}
+
+.button1 {
+	display: inline-block;
+	width: 80px;
+	height: 41px;
+	line-height: 41px;
+	border: none;
+	background-color: #66CCFF;
+	font-size: 17px;
+	font-weight: 700;
+	color: #fff !important;
+	outline: none;
+	position: relative;
+	right: 5px;
+	top: 0px;
+	text-align: center;
+	text-decoration: none !important;
+}
+
+.span3 {
+	width: 80%;
+	height: 67px;
+	position: absolute;
+	margin-left: 15px;
+	bottom: 23px;
+	left: 5px;
+	bottom: 23px;
+	overflow: hidden;
+}
+
+.li1 {
+	float: left;
+	/* display: flex; */
+	/* justify-content: center; */
+	position: relative;
+	left: 88.1%;
+	margin-left: 13px;
+}
+
+.count button {
+	line-height: 30px;
+}
+
+.userModal .modal-title {
+    position: absolute!important;
+    top: 7px;
+    left: 14px;
+}
+
+.userModal .modal-body {
+	margin-top: 27px;
+	border-top: 1px solid #dee2e6;
+}
+
+.userModal .form-control {
+    display: inline-block;
+    width: 86%;
+}
+
+.userModal .btn-default {
+	color: white;
+	background-color: #007bff;
+}
