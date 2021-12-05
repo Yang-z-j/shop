@@ -165,7 +165,7 @@ h1 {
 	</div>
 	<div id="tail">
 		<p class="p2">爱淘商城</p>
-		<p class="p2">Copyright © 2019 taobaostore.top All Rights Reserved
+		<p class="p2">Copyright © 2021 taobaostore.top All Rights Reserved
 		</p>
 	</div>
 
